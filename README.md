@@ -31,4 +31,4 @@ Acreditamos que a ciência é para todos e que destacar as contribuições das m
 
 **Vamos juntos construir um futuro mais justo e equitativo!**
 
-**Link do site no Vercel:** 
+**Link do site no Vercel:** https://projeto-imersao-alura-ten.vercel.app/
