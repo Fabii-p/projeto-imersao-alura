@@ -148,6 +148,14 @@ footer {
     body {
         background-size: contain;
     }
+    .sidebar{
+        width: 90px;
+    }
+    .main{
+        width: auto;
+        display: flex;
+        flex-direction: column;
+    }
     h1 {
         font-size: 1.8rem; /* Tamanho da fonte em telas pequenas */
         letter-spacing: 0.1rem; /* Espaçamento entre letras em telas pequenas */
