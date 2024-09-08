@@ -160,6 +160,11 @@ footer {
         font-size: 1.8rem; /* Tamanho da fonte em telas pequenas */
         letter-spacing: 0.1rem; /* Espaçamento entre letras em telas pequenas */
     }
+    h3 {
+        font-size: 1rem; /* Tamanho da fonte em telas pequenas */
+        letter-spacing: 0.1rem; /* Espaçamento entre letras em telas pequenas */
+        width: 90px;
+    }
     section input {
         width: 17rem; /* Largura total dos inputs em telas pequenas */
     }
