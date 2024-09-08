@@ -31,4 +31,9 @@ Acreditamos que a ciência é para todos e que destacar as contribuições das m
 
 **Vamos juntos construir um futuro mais justo e equitativo!**
 
-**Link do site no Vercel:** https://projeto-imersao-alura-ten.vercel.app/
+**Um pouco mais sobre a criadora deste projeto** 
+Possuo outra profissão e estou começando a aprender sobre dev agora, depois dos trinta+.
+O primeiro contato que tive com esse universo de programação, front-end, css, js e tantos termos que nunca tinha ouvido falar antes foi através da imersão da Alura. 
+Aliás este é o meu primeiro projeto,e, embora nao esteja perfeito, estou contente (e agradecida) de ter participado e conseguido finalizar o projeto com o conhecimento construído nesses últimos seis dias.
+Agradeço a todos que leram ate aqui, aos que votaram no meu projeto e principalmente aos professores e a Alura por terem proporcionado esta oportunidade.
+Abraço e vamos em busca dos próximos desafios.
